@@ -127,3 +127,5 @@ Los retos de código no se me hicieron tan difíciles porque pude apoyarme en lo
 
 ## Evidencia
 
+<img width="1920" height="1080" alt="Captura de pantalla (675)" src="https://github.com/user-attachments/assets/026adfeb-d165-49e3-b5b1-4271b88068fa" />
+
